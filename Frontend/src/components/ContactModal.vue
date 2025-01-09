@@ -37,7 +37,7 @@
             </div>
           </div>
           
-          <!-- Actions -->
+          <!-- Actionss -->
           <div class="mt-6 flex justify-end gap-3">
             <button
               @click="close"
